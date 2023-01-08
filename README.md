@@ -1,7 +1,7 @@
 <!-- Zphisher -->
 
 <p align="center">
-  <img src=".github/misc/logo.png">
+  <img src="https://raw.githubusercontent.com/deepraj-x/phishingbd/main/.github/misc/5f646a99baa588000bd910bc.png">
 </p>
 
 <p align="center">
