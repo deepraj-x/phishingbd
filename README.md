@@ -54,16 +54,16 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone --depth=1 https://github.com/deepraj-x/phishingbd.git
   ```
 
 - Now go to cloned directory and run `zphisher.sh` -
   ```
-  $ cd zphisher
-  $ bash zphisher.sh
+  $ cd phishingbd
+  $ bash phishingbd.sh
   ```
 
-- On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
+- On first launch, It'll install the dependencies and that's it. ***Phishingbd*** is installed.
 
 ##
 
@@ -71,8 +71,8 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 You can easily install zphisher in Termux by using tur-repo
 ```
 $ pkg install tur-repo
-$ pkg install zphisher
-$ zphisher
+$ pkg install phishingbd
+$ Phishingbd
 ```
 ### A Note : 
 ***Termux discourages hacking*** .. So never discuss anything related to *zphisher* in any of the termux discussion groups. For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
